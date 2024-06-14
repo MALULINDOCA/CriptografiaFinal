@@ -1,3 +1,4 @@
+const matriz = [[1,2],[2,3]];
 const letraA = ['A','a',0,0];
 const letraB = ['B','b',1,0];
 const letraC = ['C','c',2,0];
@@ -34,5 +35,5 @@ const pfinal = ['.',2,5];
 const virgula = [',',3,5];
 const interroga = ['?',4,5];
 
-
+const alfabeto = [letraA,letraB,letraC,letraD,letraD,letraE,letraF,letraG,letraH,letraI,letraJ,letraK,letraL,letraM,letraN,letraO,letraP,letraQ,letraR,letraS,letraT,letraU,letraV,letraW,letraX,letraY,letraZ,espaço,pfinal,virgula,interroga]
 
